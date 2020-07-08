@@ -1,4 +1,4 @@
-# Palkin-Ecommerce-App
+# Dynamic-Android-App-Using-Firebase
 
 This is my Internship Project as an Android Developer at Navpad InfoTech(Vadodara).
 
