@@ -1,4 +1,4 @@
-# Dynamic-Android-App-Using-Firebase
+# Dynamic-Android-App-Using-Firebase-Realtime-Database
 
 This is my Internship Project as an Android Developer at Navpad InfoTech(Vadodara).
 
